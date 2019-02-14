@@ -1,4 +1,4 @@
-package cn.meixs.duplicated_code;
+package coding.duplicated_code;
 
 public class Calculator {
     private int[] arrayA;
